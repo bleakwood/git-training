@@ -1,5 +1,5 @@
-
 This is Tianhua Z.
+I've changed this line. common use cases for git
 
 1. create a new branch
  - when to create a new branch?
