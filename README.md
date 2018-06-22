@@ -51,10 +51,7 @@ This is Tianhua Z.
                  /
     D---E---F---G master
 ```
-<<<<<<< HEAD
 
 3. other useful tricks
   - git stash
   - git stash pop
-=======
->>>>>>> tianhuazhou
