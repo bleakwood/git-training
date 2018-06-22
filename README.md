@@ -51,10 +51,7 @@ I've changed this line. common use cases for git
                  /
     D---E---F---G master
 ```
-<<<<<<< HEAD
 
 3. other useful tricks
   - git stash
   - git stash pop
-=======
->>>>>>> tianhuazhou
