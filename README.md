@@ -1,4 +1,4 @@
-common use cases for git
+This is Tianhua Z.
 
 1. create a new branch
  - when to create a new branch?
