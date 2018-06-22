@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+// nothing to do
 
 /*
  * To execute Java, please define "static void main" on a class

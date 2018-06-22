@@ -1,4 +1,5 @@
-alright it has been changed
+
+This is Tianhua Z.
 
 1. create a new branch
  - when to create a new branch?
@@ -50,7 +51,10 @@ alright it has been changed
                  /
     D---E---F---G master
 ```
+<<<<<<< HEAD
 
 3. other useful tricks
   - git stash
   - git stash pop
+=======
+>>>>>>> tianhuazhou
