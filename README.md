@@ -30,3 +30,5 @@ common use cases for git
                    B'---C' topic
                   /
     D---E---A'---F master
+
+Random changes
