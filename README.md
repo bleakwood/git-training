@@ -50,3 +50,7 @@ common use cases for git
                  /
     D---E---F---G master
 ```
+
+3. other useful tricks
+  - git stash
+  - git stash pop
